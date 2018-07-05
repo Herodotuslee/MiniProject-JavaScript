@@ -1,0 +1,27 @@
+body { padding-top: 0px; }
+
+#header-img{
+	margin-bottom: 3%;
+}
+
+#video{
+	margin: 0 auto;
+}
+
+.main-box{
+	margin-top:3%;
+	margin-left: 30%;
+	margin-right:30%;
+}
+
+.header{
+	position: fixed;
+}
+
+#free{
+	display:flex;
+}
+
+#rich{
+	display:flex;
+}
